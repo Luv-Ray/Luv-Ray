@@ -5,7 +5,7 @@
 My blog (zh_CN): <https://luv-ray.github.io/>
 
 ✨ Interested in:
-- Operation System
+- Operating System
 - Datebase System
 - Distributed System
 
