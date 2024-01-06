@@ -1,8 +1,6 @@
 ### Hi there 👋, here is Luv_Ray
 
-### About
-
-✨ Interested in:
+✨ I'm interested in:
 - Operating System
 - Datebase System
 - Distributed System
