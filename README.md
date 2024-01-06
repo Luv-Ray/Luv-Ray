@@ -2,8 +2,6 @@
 
 ### About
 
-My blog (zh_CN): <https://luv-ray.github.io/>
-
 ✨ Interested in:
 - Operating System
 - Datebase System
